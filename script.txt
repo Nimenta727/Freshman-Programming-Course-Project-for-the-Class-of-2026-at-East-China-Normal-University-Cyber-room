@@ -1,0 +1,11 @@
+move right
+move right
+inspect
+move right
+move right
+take
+move right
+open
+move right
+move right
+move right
